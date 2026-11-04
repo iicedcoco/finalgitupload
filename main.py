@@ -156,7 +156,7 @@ def on_on_score(): #This here is what will happen once the score counter reaches
             "And in doing so, we are also harming our planet")
         story.sprite_say_text(textSprite2, "AI is everywhere, can be used for everything")
         story.sprite_say_text(textSprite2,
-            "But AI is no one, it is a mixture of everyone and it doesn't not represent you")
+            "But AI is no one, it is a mixture of everyone and it does not represent you")
         story.sprite_say_text(textSprite2,
             "This game was a project driven by passion, made by hand")
         story.sprite_say_text(textSprite2,

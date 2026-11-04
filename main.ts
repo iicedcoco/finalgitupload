@@ -170,7 +170,7 @@ info.onScore(7, function on_on_score() {
         story.spriteSayText(textSprite2, "That keep our brains healthy")
         story.spriteSayText(textSprite2, "And in doing so, we are also harming our planet")
         story.spriteSayText(textSprite2, "AI is everywhere, can be used for everything")
-        story.spriteSayText(textSprite2, "But AI is no one, it is a mixture of everyone and it doesn't not represent you")
+        story.spriteSayText(textSprite2, "But AI is no one, it is a mixture of everyone and it does not represent you")
         story.spriteSayText(textSprite2, "This game was a project driven by passion, made by hand")
         story.spriteSayText(textSprite2, "It involved learning along the way and makes it a human experience")
         story.spriteSayText(textSprite2, "So next time you have to create something")
